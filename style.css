@@ -1,0 +1,12 @@
+form{
+    width: 84%;
+}
+input{
+    width: 87%;
+    align-content: center;
+    margin-left: 6%;
+}
+.recipe {
+    border-bottom: 2px dashed blue;
+    margin-bottom: 5px;
+  }
